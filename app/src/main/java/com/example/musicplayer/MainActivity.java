@@ -107,5 +107,6 @@ public class MainActivity extends AppCompatActivity {
                 }).check();
 
         return checkPermission;
+        // added new features
     }
 }
